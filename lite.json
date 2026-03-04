@@ -160,20 +160,20 @@
     "priority": 5
   },
   {
-    "id": "subo",
-    "name": "🎬速播资源",
-    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "uku",
     "name": "🎬U酷影视",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
+  },
+  {
+    "id": "wangwang",
+    "name": "🎬旺旺资源",
+    "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "jinying",
