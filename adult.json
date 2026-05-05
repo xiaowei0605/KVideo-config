@@ -88,6 +88,14 @@
     "priority": 1
   },
   {
+    "id": "subo",
+    "name": "🎬速播资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "piaoling",
     "name": "🎬飘零资源",
     "baseUrl": "https://p2100.net/api.php/provide/vod",
@@ -304,25 +312,9 @@
     "priority": 5
   },
   {
-    "id": "maoyan",
-    "name": "🎬猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "liangzi",
     "name": "🎬量子资源",
     "baseUrl": "https://cj.lzcaiji.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "subo",
-    "name": "🎬速播资源",
-    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -368,12 +360,29 @@
     "priority": 10
   },
   {
+    "id": "hhzy",
+    "name": "🎬豪华资源",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "hsck",
     "name": "🔞黄色仓库",
     "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 10
+  },
+  {
+    "id": "maoyan",
+    "name": "🎬猫眼资源",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "wangwang",
@@ -388,15 +397,6 @@
     "id": "guangsu",
     "name": "🎬光速资源",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "接口解析错误"
-  },
-  {
-    "id": "hhzy",
-    "name": "🎬豪华资源",
-    "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
     "priority": 130,
