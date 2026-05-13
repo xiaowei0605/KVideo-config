@@ -272,6 +272,14 @@
     "priority": 1
   },
   {
+    "id": "dbzy",
+    "name": "🎬豆瓣资源",
+    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "maotai",
     "name": "🎬茅台资源",
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -328,6 +336,14 @@
     "priority": 5
   },
   {
+    "id": "hsck",
+    "name": "🔞黄色仓库",
+    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "naixiang",
     "name": "🔞奶香资源",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
@@ -374,24 +390,6 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
-  },
-  {
-    "id": "dbzy",
-    "name": "🎬豆瓣资源",
-    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "hsck",
-    "name": "🔞黄色仓库",
-    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
   },
   {
     "id": "wangwang",
