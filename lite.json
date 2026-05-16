@@ -152,6 +152,14 @@
     "priority": 5
   },
   {
+    "id": "ryzy",
+    "name": "🎬如意资源",
+    "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "maotai",
     "name": "🎬茅台资源",
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
