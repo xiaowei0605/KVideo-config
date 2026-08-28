@@ -288,9 +288,9 @@
     "priority": 10
   },
   {
-    "id": "alvin",
-    "name": "🔞--AIvin-",
-    "baseUrl": "http://lbapiby.com/api.php/provide/vod",
+    "id": "hsck",
+    "name": "🔞黄色仓库",
+    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 10
@@ -328,9 +328,9 @@
     "priority": 10
   },
   {
-    "id": "hsck",
-    "name": "🔞黄色仓库",
-    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
+    "id": "alvin",
+    "name": "🔞--AIvin-",
+    "baseUrl": "http://lbapiby.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
     "priority": 101,
