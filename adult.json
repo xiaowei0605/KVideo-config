@@ -280,6 +280,14 @@
     "priority": 5
   },
   {
+    "id": "hsck",
+    "name": "🔞黄色仓库",
+    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "taohua",
     "name": "🔞桃花资源",
     "baseUrl": "https://thzy1.me/api.php/provide/vod",
@@ -312,21 +320,12 @@
     "priority": 10
   },
   {
-    "id": "hsck",
-    "name": "🔞黄色仓库",
-    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "naixiang",
     "name": "🔞奶香资源",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 107,
+    "priority": 108,
     "_comment": "接口解析错误"
   },
   {
